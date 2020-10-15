@@ -1,3 +1,3 @@
 <div class="text-center">
-    <h3>Boolean Carrers</h3>
+    <h3>Boolean Careers</h3>
 </div>
