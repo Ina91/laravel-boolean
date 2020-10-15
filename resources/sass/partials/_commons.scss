@@ -1,0 +1,23 @@
+a {
+    color: $bool-color;
+
+    &:hover {
+        color: darken($bool-color, 10%);
+        text-decoration: underline;
+    }
+}
+
+.btn.btn-success {
+    background-color: $bool-color;
+    border-color: $bool-color;
+
+    &:hover {
+        background-color: darken($bool-color, 10%);
+        border-color: darken($bool-color, 10%);
+    }
+}
+
+// Fonts
+h4 {
+    font-weight: $bold;
+}
